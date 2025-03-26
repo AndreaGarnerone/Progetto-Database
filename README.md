@@ -1,2 +1,2 @@
 # Progetto-Database
-Progetto in cui si chiedeva di progettare (e in piccola parte realizzare) un database per un servizio che permette di fare live streaming
+Progetto in cui si progetta (e in parte si realizza) un database per un servizio che permette di fare live streaming
